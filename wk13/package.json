@@ -1,0 +1,22 @@
+{
+  "name": "wkC",
+  "version": "0.0.0",
+  "description": "Hello Expo!",
+  "author": null,
+  "private": true,
+  "main": "main.js",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "ejs": "^2.5.6",
+    "expo": "16.0.0",
+    "express": "^4.15.3",
+    "firebase": "^3.9.0",
+    "moment": "^2.18.1",
+    "mongoose": "^4.10.6",
+    "react": "16.0.0-alpha.6",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-16.0.0.tar.gz",
+    "react-native-card-view": "0.0.3",
+    "react-native-elements": "^0.11.2",
+    "react-navigation": "git+https://github.com/react-community/react-navigation.git#7edd9a7"
+  }
+}
